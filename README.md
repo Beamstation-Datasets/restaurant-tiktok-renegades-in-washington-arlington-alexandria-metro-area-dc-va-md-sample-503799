@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `503799` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 121 records |
-| Free sample size | 12 records (9.92%) |
-| Last export | 2026-04-08T05:31:27.599424+00:00 |
+| Full dataset size | 118 records |
+| Free sample size | 11 records (9.32%) |
+| Last export | 2026-04-15T09:38:46.432586+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-washington-arlington-alexandria-metro-area-dc-va-md-sample-503799/releases/download/sample-latest/beamstation_503799_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
