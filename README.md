@@ -9,9 +9,9 @@
 | Dataset ID | `503799` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 105 records |
-| Free sample size | 10 records (9.52%) |
-| Last export | 2026-04-22T16:58:47.121534+00:00 |
+| Full dataset size | 104 records |
+| Free sample size | 10 records (9.62%) |
+| Last export | 2026-04-29T16:52:02.255075+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-washington-arlington-alexandria-metro-area-dc-va-md-sample-503799/releases/download/sample-latest/beamstation_503799_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
