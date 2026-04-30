@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a83c354e-6bc2-4c63-8e52-75ad0b679715",
+  "export_job_id": "4ac98cde-43c9-4d1e-be86-9e429b70c674",
   "id_short": 503799,
-  "published_at": "2026-04-22T19:49:26Z",
+  "published_at": "2026-04-30T07:31:46Z",
   "repo_name": "restaurant-tiktok-renegades-in-washington-arlington-alexandria-metro-area-dc-va-md-sample-503799",
   "sample_asset_name": "beamstation_503799_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/503799/beamstation_503799_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_records": 10,
-  "sample_sha256": "afddb5a59fef3a0f42d116aa04104554daa5685d3ca44bf4a8febcde166915e9",
-  "sample_size_bytes": 57890,
-  "total_records": 105
+  "sample_sha256": "81cf84338c5b150ae5d453ef7b71bc298de6f0e3da03c1eddf246d7f75412b3d",
+  "sample_size_bytes": 56570,
+  "total_records": 104
 }
