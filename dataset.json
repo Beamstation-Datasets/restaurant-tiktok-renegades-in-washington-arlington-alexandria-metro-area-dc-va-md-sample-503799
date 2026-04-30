@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US",
-  "export_job_id": "a83c354e-6bc2-4c63-8e52-75ad0b679715",
+  "export_job_id": "4ac98cde-43c9-4d1e-be86-9e429b70c674",
   "github_org": "Beamstation-Datasets",
   "id_short": 503799,
   "location_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
   "location_type": "metro",
   "repo_name": "restaurant-tiktok-renegades-in-washington-arlington-alexandria-metro-area-dc-va-md-sample-503799",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/503799/beamstation_503799_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
-  "sample_pct": 9.52,
+  "sample_pct": 9.62,
   "sample_records": 10,
-  "sample_sha256": "afddb5a59fef3a0f42d116aa04104554daa5685d3ca44bf4a8febcde166915e9",
-  "sample_size_bytes": 57890,
-  "total_records": 105,
-  "updated_at": "2026-04-22T16:58:47.121534+00:00"
+  "sample_sha256": "81cf84338c5b150ae5d453ef7b71bc298de6f0e3da03c1eddf246d7f75412b3d",
+  "sample_size_bytes": 56570,
+  "total_records": 104,
+  "updated_at": "2026-04-29T16:52:02.255075+00:00"
 }
